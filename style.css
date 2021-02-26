@@ -7,8 +7,9 @@ body {
   position: fixed;
   top: 0;
   color: aquamarine;
+  line-height: 30px;
   font-size: 20px;
-  padding: 20px;
+  padding: 40px;
 }
 
 #minha_foto {

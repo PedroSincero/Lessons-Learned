@@ -6,7 +6,9 @@ body {
 #cabecalho {
   position: fixed;
   top: 0;
-
+  color: aquamarine;
+  font-size: 20px;
+  padding: 20px;
 }
 
 #minha_foto {

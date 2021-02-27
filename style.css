@@ -27,6 +27,7 @@ body {
   width: 200px;
   border: 20px solid red;
 }
+
 .lado-direito {
   display: inline-block;
   width: 50%;

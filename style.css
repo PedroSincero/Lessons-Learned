@@ -20,7 +20,7 @@ body {
 }
 
 #minha_foto {
-  position:relative;
+  position: relative;
   width: 250px;
   margin-top: 100px;
   border-radius: 50%;
@@ -32,7 +32,7 @@ body {
   display: inline-block;
   position: relative;
   border: 2px solid rgb(88, 88, 90);
-  padding: 20px 30px 20px 0px;
+  padding: 20px 30px 20px;
   left: 280px;
   bottom: 330px;
 }
@@ -41,7 +41,7 @@ body {
   display: inline-block;
   position: relative;
   border: 2px solid rgb(88, 88, 90);
-  padding: 20px 30px 20px 30px ;
+  padding: 20px 30px;
   left: 280px;
   bottom: 330px;
 }
